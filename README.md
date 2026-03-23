@@ -43,6 +43,7 @@ Below is an outline of the repository structure and its contents:
 │  └─ sarimax_graph.png
 ├─ SCRIPTS/
 │  └─ DS_4002_Project_2.ipynb
+├─ Cavalier_Kaggles_-_Project_2.pdf
 ├─ LICENSE.txt
 └─ README.md
 </code></pre>

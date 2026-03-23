@@ -29,24 +29,22 @@ Below is an outline of the repository structure and its contents:
 
 <pre><code>project-root/
 ├─ DATA/
+│  ├─ Data_Appendix.pdf
+│  ├─ final_data.csv
 │  ├─ load_data_2024.csv
 │  ├─ load_data_2025.csv
 │  ├─ load_data_2026.csv
-│  ├─ weather_data_2024_to_2026.csv
-│  ├─ final_data.csv
-│  └─ DataAppendix.pdf
+│  └─ weather_data_2024_to_2026.csv
 ├─ OUTPUT/
-│  ├─ hourly_load_over_time.png
-│  ├─ daily_load_over_time.png
 │  ├─ arima_graph.png
 │  ├─ arimax_graph.png
-│  ├─ sarimax_graph.png
 │  ├─ regression_no_weather_graph.png
-│  └─ regression_with_weather_graph.png
+│  ├─ regression_with_weather_graph.png
+│  └─ sarimax_graph.png
 ├─ SCRIPTS/
 │  └─ DS_4002_Project_2.ipynb
-├─ README.md
-└─ LICENSE.txt
+├─ LICENSE.txt
+└─ README.md
 </code></pre>
 
 ## Instructions for Reproducing Results
